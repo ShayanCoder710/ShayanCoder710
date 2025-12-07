@@ -1,5 +1,3 @@
-<img src="https://github.com/SHAYAN-FM/SHAYAN-FM/blob/main/p.png" alt="Profile" width="600" height="600" style="border: 5px solid white; border-radius: 50%;">
- 
 # SHAYAN-FM
 
 ---
@@ -48,6 +46,7 @@
 - Simple Telegram Bot
 - Python Programs
 - Simple WebSites
+
 
 
 
