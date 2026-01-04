@@ -4,6 +4,7 @@
 
 ## 💪🏻My Skills⬇
 - PYTHON
+- CTk
 - HTML
 - CSS
 - TELEGRAM BOT
@@ -45,7 +46,8 @@
 - Windows Graphics Programs
 - Simple Telegram Bot
 - Python Programs
-- Simple WebSites
+- WebSites
+
 
 
 
