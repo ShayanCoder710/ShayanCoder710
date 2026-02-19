@@ -22,7 +22,7 @@
 ---
 
 ## 🧠 Back-End⬇
-- PYTHON
+- empty
 
 ---
 
@@ -47,6 +47,7 @@
 - Simple Telegram Bot
 - Python Programs
 - WebSites
+
 
 
 
