@@ -49,8 +49,8 @@
 
 ---
 ## ✔Things I Can Make⬇
-- Windows & Linux Graphics Programs(Waith CTK)
-- I Can Write Scripts Using Bash
+- Windows & Linux Graphics Programs(With CTK)
+- Write Scripts Using Bash
 - Simple Telegram Bot
 - Python Programs
 - WebSites
