@@ -3,13 +3,12 @@
 ---
 
 ## 💪🏻My Skills⬇
-- PYTHON
-- CTk
+- Python 
+- Bash
 - HTML
-- CSS
-- TELEGRAM BOT
-- GITHUB
-- VSCODE
+- CSS
+- GitHub 
+- Telegram Bot
 
 ---
 
@@ -22,13 +21,18 @@
 ---
 
 ## 🧠 Back-End⬇
-- empty
+- Flask
 
 ---
 
 ## ✨FrontEnd⬇
 - HTML
 - CSS
+
+---
+
+## 🐧Linux
+- Bash
 
 ---
 
@@ -43,7 +47,7 @@
 
 ---
 ## ✔Things I Can Make⬇
-- Windows Graphics Programs
+- Windows & Linux Graphics Programs
 - Simple Telegram Bot
 - Python Programs
 - WebSites
