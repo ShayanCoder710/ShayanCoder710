@@ -45,7 +45,7 @@
 ---
 
 ## ⚙️ DevOps Tools⬇
-- gitg
+- GitG
 - GitHub
 - VsCode
 
