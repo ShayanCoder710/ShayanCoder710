@@ -1,5 +1,7 @@
 # ShayanCoder710💻
 
+---
+
 ## 💪🏻My Skills⬇
 - Python 
 - Bash
