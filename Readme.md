@@ -6,7 +6,8 @@
 - Python 
 - Bash
 - HTML
-- CSS
+- CSS
+
 - GitHub 
 - Telegram Bot
 
@@ -43,7 +44,8 @@
 
 ---
 
-## ⚙️ DevOps & Tools⬇
+## ⚙️ DevOps Tools⬇
+- gitg
 - GitHub
 - VsCode
 
@@ -54,4 +56,4 @@
 - Simple Telegram Bot
 - Python Programs
 - WebSites
-
+
