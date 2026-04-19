@@ -31,8 +31,10 @@
 
 ---
 
-## 🐧Linux
+## 🐧Linux⬇
 - Bash
+- APT package management
+- Basic CLI tools (grep, wget and ...)
 
 ---
 
@@ -47,23 +49,9 @@
 
 ---
 ## ✔Things I Can Make⬇
-- Windows & Linux Graphics Programs
+- Windows & Linux Graphics Programs(Waith CTK)
+- I Can Write Scripts Using Bash
 - Simple Telegram Bot
 - Python Programs
 - WebSites
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+
