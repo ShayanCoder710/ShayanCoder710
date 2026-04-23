@@ -7,8 +7,6 @@
 - Bash
 - HTML
 - CSS
-
-- GitHub 
 - Telegram Bot
 
 ---
