@@ -1,5 +1,5 @@
 # 💻ShayanCoder710
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=6664dd&lines=Hello👋🏻+I'm+ShayanCoder710+🧑🏻‍💻;Welcome+To+My+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=6664dd&lines=Hello👋🏻+I'm+ShayanCoder710🧑🏻‍💻;Welcome+To+My+GitHub!)](https://git.io/typing-svg)
 
 
 ---
