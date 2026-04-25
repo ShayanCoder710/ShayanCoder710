@@ -56,6 +56,5 @@
 - Python Programs
 - WebSites
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ShayanCoder710/ShayanCoder710/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
+![snake animation](https://github.com/ShayanCoder710/ShayanCoder710/blob/output/github-contribution-grid-snake.svg)
+
