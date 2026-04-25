@@ -1,4 +1,4 @@
-[![My Dynamic Stats](https://readme-stats.dev/api/dynamic/--title=My%20Dynamic%20Stats--my-tech-os--hide=stars,commits--border_color=304D30--hide_title=true--on_the_wrong_planet=true)](https://github.com/ashutosh1919/readme-stats)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=08509B&text=Hello+I'm+Shayan,+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ---
 
