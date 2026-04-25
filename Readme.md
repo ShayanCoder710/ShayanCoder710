@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=blueHello+I'm+Shayan;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&center=true&vOffset=5&option.color=08509B&text=Hello+I'm+Shayan!+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
 
 ---
 
@@ -62,5 +63,4 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayangh&layout=compact)
-
+https://github-readme-stats.vercel.app/api/top-langs/?username=ShayanCoder710&layout=compact&theme=tokyonight
