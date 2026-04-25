@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&center=true&vOffset=5&option.color=08509B&text=Hello+I'm+Shayan!+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-
 ---
 
 ## 💪🏻My Skills⬇
