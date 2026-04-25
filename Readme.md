@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&center=true&vOffset=5&option.color=08509B&text=Hello+I'm+Shayan!+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![My Dynamic Stats](https://readme-stats.dev/api/dynamic/--title=My%20Dynamic%20Stats--my-tech-os--hide=stars,commits--border_color=304D30--hide_title=true--on_the_wrong_planet=true)](https://github.com/ashutosh1919/readme-stats)
 
 ---
 
@@ -59,7 +59,3 @@
 ---
 
 ![Shayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShayanCoder710&show_icons=true&theme=radical)
-
----
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=ShayanCoder710&layout=compact&theme=tokyonight
