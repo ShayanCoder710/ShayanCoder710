@@ -55,4 +55,7 @@
 - Python Programs
 - WebSites
 
-![](https://github.com/yusufyusie/yusufyusie/raw/main/line.gif)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShayanCoder710/ShayanCoder710/main/assets/line.gif" alt="divider" />
+</p>
