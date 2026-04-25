@@ -55,6 +55,3 @@
 - Simple Telegram Bot
 - Python Programs
 - WebSites
-
-![snake animation](https://github.com/ShayanCoder710/ShayanCoder710/blob/output/github-contribution-grid-snake.svg)
-
