@@ -1,4 +1,7 @@
 # 💻ShayanCoder710
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F70000&lines=Hey+there!+I'm+Shayan;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+
 ---
 
 ## 💪🏻My Skills⬇
