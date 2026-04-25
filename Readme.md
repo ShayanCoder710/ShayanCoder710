@@ -1,5 +1,4 @@
-<h1 style="color: #000000; background-color: red">💻ShayanCoder710</h1>
-
+# 💻ShayanCoder710
 ---
 
 ## 💪🏻My Skills⬇
