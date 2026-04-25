@@ -55,3 +55,7 @@
 - Simple Telegram Bot
 - Python Programs
 - WebSites
+
+---
+
+![Shayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayangh&show_icons=true&theme=radical)
