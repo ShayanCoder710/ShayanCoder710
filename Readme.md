@@ -1,4 +1,4 @@
-<h1 style="color: blue;">ShayanCoder710💻</h1>
+<h1 style="color: #000000;">ShayanCoder710💻</h1>
 
 ---
 
