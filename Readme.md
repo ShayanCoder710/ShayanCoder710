@@ -48,6 +48,7 @@
 - VsCode
 
 ---
+
 ## ✔Things I Can Make⬇
 - Windows & Linux Graphics Programs
 - Write Scripts Using Bash
@@ -55,7 +56,6 @@
 - Python Programs
 - WebSites
 
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShayanCoder710/ShayanCoder710/main/assets/line.gif" alt="divider" />
+  <img src="https://raw.githubusercontent.com/ShayanCoder710/ShayanCoder710/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
