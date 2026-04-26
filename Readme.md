@@ -60,4 +60,4 @@
 
 ---
 
-![ShayanCoder710 GitHub stats](https://github-readme-stats.vercel.app/api?username=Tahabyte&show_icons=true&theme=radical)
+![ShayanCoder710 GitHub stats](https://github-readme-stats.vercel.app/api?username=ShayanCoder710&show_icons=false&theme=radical)
