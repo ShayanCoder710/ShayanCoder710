@@ -5,8 +5,9 @@
 ---
 
 ## 💪🏻My Skills⬇
-- Python 
+- Python
 - Bash
+- Hack
 - HTML
 - CSS
 - Telegram Bot
@@ -36,6 +37,15 @@
 - Bash
 - APT package management
 - Basic CLI tools (grep, wget and ...)
+
+---
+
+## 🧑‍💻Hack⬇
+- DDoS
+- Phishing
+- SMS Bomber
+- Social Engineering
+- Stealing paid fonts
 
 ---
 
