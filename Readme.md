@@ -44,6 +44,7 @@
 - DDoS
 - Phishing
 - SMS Bomber
+- Brute Force
 - Social Engineering
 - Stealing paid fonts
 
