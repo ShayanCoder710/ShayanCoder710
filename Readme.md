@@ -69,7 +69,3 @@
 - Simple Telegram Bot
 - Python Programs
 - WebSites
-
----
-
-![ShayanCoder710 GitHub stats](https://github-readme-stats.vercel.app/api?username=ShayanCoder710&show_icons=true&theme=radical)
