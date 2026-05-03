@@ -43,6 +43,7 @@
 ## 🧑‍💻Hack⬇
 - DDoS
 - Phishing
+- Natas(1-9)
 - SMS Bomber
 - Brute Force
 - Social Engineering
