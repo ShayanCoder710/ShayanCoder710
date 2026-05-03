@@ -68,4 +68,15 @@
 - Write Scripts Using Bash
 - Simple Telegram Bot
 - Python Programs
+- Phishing site
 - WebSites
+
+---
+
+## ✔I can do it⬇
+- Brute force on various Wi-Fi networks
+- SMS bomber on mobile phones
+- I will attack the sites
+- Stealing paid fonts
+- Social Engineering
+- 
