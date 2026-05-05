@@ -4,7 +4,7 @@
 
 ---
 
-## 💪🏻My Skills⬇
+## 💪🏻My Skills
 - Python
 - Bash
 - Hack
@@ -14,33 +14,34 @@
 
 ---
 
-## ⚡Currently learning⬇
+## ⚡Currently learning
 - Java Script
 - Data Base
 - Flask
+- CSS
 - git
 
 ---
 
-## 🧠 Back-End⬇
+## 🧠 Back-End
 - Flask
 
 ---
 
-## ✨FrontEnd⬇
+## ✨FrontEnd
 - HTML
 - CSS
 
 ---
 
-## 🐧Linux⬇
+## 🐧Linux
 - Bash
 - APT package management
 - Basic CLI tools (grep, wget and ...)
 
 ---
 
-## 🧑‍💻Hack⬇
+## 🧑‍💻Hack
 - DDoS
 - Phishing
 - Natas(1-9)
@@ -51,19 +52,19 @@
 
 ---
 
-## 🤖 Robot⬇
+## 🤖 Robot
 - Telegram Bot
 
 ---
 
-## ⚙️ DevOps Tools⬇
+## ⚙️ DevOps Tools
 - GitG
 - GitHub
 - VsCode
 
 ---
 
-## ✔Things I Can Make⬇
+## ✔Things I Can Make
 - Windows & Linux Graphics Programs
 - Write Scripts Using Bash
 - Simple Telegram Bot
@@ -73,9 +74,22 @@
 
 ---
 
-## ✔I can do it⬇
+## ✔I can do it
 - Brute force on various Wi-Fi networks
 - SMS bomber on mobile phones
 - I will attack the sites
 - Stealing paid fonts
 - Social Engineering
+
+---
+
+## 📑My Certificates
+- Python Applications(Faradars)
+- Python(Fardars)
+- HTML(Faradars)
+
+---
+
+## 🧾My quizzes
+- Python Quiz(CodeBezan - 80%)
+- HTML Quiz(Codebezan - 100%)
