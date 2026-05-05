@@ -85,7 +85,7 @@
 
 ## 📑My Certificates
 - Python Applications(Faradars)
-<img href="https://faradars.org/verify/CC1540C8?lang=en"></img>
+- <img href="https://faradars.org/verify/CC1540C8?lang=en"></img>
 - Python(Fardars)
 - HTML(Faradars)
 
