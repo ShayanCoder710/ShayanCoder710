@@ -10,7 +10,6 @@
 - Hack
 - HTML
 - CSS
-- Telegram Bot
 
 ---
 
@@ -67,7 +66,6 @@
 ## ✔Things I Can Make
 - Windows & Linux Graphics Programs
 - Write Scripts Using Bash
-- Simple Telegram Bot
 - Python Programs
 - Phishing site
 - WebSites
