@@ -18,7 +18,7 @@
 - Data Base
 - Flask
 - CSS
-- git
+- Git
 
 ---
 
@@ -48,11 +48,6 @@
 - SMS Bomber
 - Social Engineering
 - Stealing paid fonts
-
----
-
-## 🤖 Robot
-- Telegram Bot
 
 ---
 
