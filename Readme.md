@@ -67,15 +67,6 @@
 
 ---
 
-## ✔I can do it
-- Brute force on various Wi-Fi networks
-- SMS bomber on mobile phones
-- I will attack the sites
-- Stealing paid fonts
-- Social Engineering
-
----
-
 ## 📑My Certificates
 - Python Applications(Faradars)
 - Python(Fardars)
