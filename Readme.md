@@ -6,6 +6,7 @@
 
 ## 💪🏻My Skills
 - Python
+- Flask
 - Bash
 - Hack
 - HTML
