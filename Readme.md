@@ -18,7 +18,6 @@
 - Java Script
 - Data Base
 - Flask
-- CSS
 - Git
 
 ---
@@ -77,4 +76,5 @@
 
 ## 🧾My quizzes
 - Python Quiz(CodeBezan - 80%)
-- HTML Quiz(Codebezan - 100%)
+- HTML Quiz(CodeBezan - 100%)
+- CSS Quiz(CodeBezan - 96%)
