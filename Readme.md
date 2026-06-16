@@ -71,6 +71,7 @@
 - Python Applications(Faradars)
 - Python(Fardars)
 - HTML(Faradars)
+- CCS(Faradars)
 
 ---
 
