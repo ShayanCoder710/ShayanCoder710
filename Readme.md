@@ -79,3 +79,4 @@
 - Python Quiz(CodeBezan - 80%)
 - HTML Quiz(CodeBezan - 100%)
 - CSS Quiz(CodeBezan - 96%)
+- JS Quiz(CodeBezan - 95%)
