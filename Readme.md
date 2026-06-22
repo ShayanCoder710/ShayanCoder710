@@ -5,6 +5,7 @@
 ---
 
 ## 💪🏻My Skills
+- Java Script
 - Python
 - Flask
 - Bash
