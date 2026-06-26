@@ -69,7 +69,9 @@
 ---
 
 ## 📑My Certificates
+- Programming Fundamentals(FaraDars)
 - Python Applications(Faradars)
+- Linux Essentials(FaraDars)
 - Python(Fardars)
 - HTML(Faradars)
 - CCS(Faradars)
