@@ -16,7 +16,6 @@
 ---
 
 ## ⚡Currently learning
-- Java Script
 - Data Base
 - Flask
 - Git
