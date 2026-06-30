@@ -30,6 +30,7 @@
 ## ✨FrontEnd
 - HTML
 - CSS
+- JS
 
 ---
 
@@ -73,7 +74,7 @@
 - Linux Essentials(FaraDars)
 - Python(Fardars)
 - HTML(Faradars)
-- CCS(Faradars)
+- CSS(Faradars)
 
 ---
 
