@@ -18,6 +18,7 @@
 ## ⚡Currently learning
 - Data Base
 - Flask
+- Bash
 - Git
 
 ---
@@ -36,7 +37,6 @@
 
 ## 🐧Linux
 - Bash
-- APT package management
 - Basic CLI tools (grep, wget and ...)
 
 ---
@@ -44,16 +44,13 @@
 ## 🧑‍💻Hack
 - DDoS
 - Phishing
-- Natas(1-9)
-- Brute Force
 - SMS Bomber
+- Brute Force
 - Social Engineering
-- Stealing paid fonts
 
 ---
 
 ## ⚙️ DevOps Tools
-- GitG
 - GitHub
 - VsCode
 
@@ -61,9 +58,7 @@
 
 ## ✔Things I Can Make
 - Windows & Linux Graphics Programs
-- Write Scripts Using Bash
 - Python Programs
-- Phishing site
 - WebSites
 
 ---
