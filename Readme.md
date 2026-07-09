@@ -7,6 +7,7 @@
 ## 💪🏻My Skills
 - Java Script
 - Python
+- MySql
 - Flask
 - Bash
 - Hack
@@ -16,7 +17,6 @@
 ---
 
 ## ⚡Currently learning
-- Data Base
 - Flask
 - Bash
 - Git
