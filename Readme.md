@@ -76,6 +76,7 @@
 
 ## 🧾My quizzes
 - Python Quiz(CodeBezan - 80%)
+- MySql Quiz(CodeBezan - 86%)
 - HTML Quiz(CodeBezan - 100%)
 - CSS Quiz(CodeBezan - 96%)
 - JS Quiz(CodeBezan - 95%)
