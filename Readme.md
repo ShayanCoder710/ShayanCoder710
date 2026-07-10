@@ -41,37 +41,29 @@
 ---
 
 ## 🧠 Back-End
-- Flask
-- MySQL
 - MariaDB
+- MySQL
+- Flask
 
 ---
 
-## DataBase
-- MySQL
+## 🐬️ DataBase
 - MariaDB
+- MySQL
 
 ---
 
 ## 🐧 Gnu/Linux
-- Bash
+- Distro: Ubuntu, Fedora, Parch
 - Working with Gnu/Linux
-
----
-
-## 🧑‍💻 Hack
-- DDoS
-- Phishing
-- SMS Bomber
-- Brute Force
-- Social Engineering
+- Bash
 
 ---
 
 ## ⚙️ DevOps Tools
-- Linux
-- GitHub
+- Gnu/Linux
 - VsCode
+- GitHub
 
 ---
 
@@ -86,8 +78,8 @@
 ---
 
 ## 🧾 My quizzes
-- Python Quiz(CodeBezan - 80%)
-- MySQL Quiz(CodeBezan - 86%)
-- HTML Quiz(CodeBezan - 100%)
-- CSS Quiz(CodeBezan - 96%)
-- JS Quiz(CodeBezan - 95%)
+- Python Quiz(CodeBezan)
+- MySQL Quiz(CodeBezan)
+- HTML Quiz(CodeBezan)
+- CSS Quiz(CodeBezan)
+- JS Quiz(CodeBezan)
