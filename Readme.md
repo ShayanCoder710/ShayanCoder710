@@ -35,14 +35,14 @@
 ## ✨ FrontEnd
 - HTML
 - CSS
-- JS
+- Java Script
 
 ---
 
 ## 🧠 Back-End
-- MariaDB
-- MySQL
 - Flask
+- MySQL
+- MariaDB
 
 ---
 
@@ -55,11 +55,12 @@
 ## 🐧 Gnu/Linux
 - Distro: Ubuntu, Fedora, Parch
 - Working with Gnu/Linux
+- Linux Command Line
 - Bash
 
 ---
 
-## ⚙️ DevOps Tools
+## ⚙️ Development Tools
 - Gnu/Linux
 - VsCode
 - GitHub
