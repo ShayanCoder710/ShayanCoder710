@@ -23,10 +23,9 @@
 ---
 
 # 🐍️ Python Libraries
-- Telegram Bot API
+- Telegram Bot API(Little)
 - MySQL Connector
 - CustomTkinter
-- Colorama
 - OpenAI
 - QRCode
 - Flask
