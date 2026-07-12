@@ -5,7 +5,7 @@
 ---
 
 ## 💪🏻 My Skills
-- Java Script
+- JavaScript
 - Python
 - MySQL
 - Flask
