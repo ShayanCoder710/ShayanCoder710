@@ -25,6 +25,7 @@
 # 🐍️ Python Libraries
 - Telegram Bot API(Little)
 - MySQL Connector(Little)
+- SqlAlchemy(Little)
 - CustomTkinter
 - OpenAI
 - QRCode
