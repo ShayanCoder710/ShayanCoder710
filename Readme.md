@@ -8,7 +8,7 @@
   
   ## 💪🏻 My Skills
   <img src="JavaScript.svg" width="100">
-  - Python
+  <img src="Python-Dark.svg" width="100">
   - MySQL
   - Flask
   - Bash
