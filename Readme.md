@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=09c7e9&height=150&section=header&text=Junior%20Full%20Stack%20Developer&fontSize=40&fontColor=FFFFFF&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=004e89&height=150&section=header&text=Junior%20Full%20Stack%20Developer&fontSize=40&fontColor=FFFFFF&animation=twinkling" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=24&color=09c7e9&center=true&lines=Hi👋🏻+I'm+ShayanCoder710🧑🏻‍💻;Welcome+To+My+GitHub🌐️;I'm+a+Programmer🧑‍💻️;I+Like+Linux🐧️" alt="Typing SVG">
@@ -9,59 +9,59 @@
   ---
   
   ## 💪🏻 My Skills 💪🏻
-  <img src="Python-Dark.svg" width="80">
+  <img src="Python-Dark.svg" width="90">
   <img src="Flask-Dark.svg" width="90">
-  <img src="MySQL-Dark.svg" width="100">
-  <img src="HTML.svg" width="100">
-  <img src="CSS.svg" width="100">
-  <img src="JavaScript.svg" width="100">
-  <img src="Bash-Dark.svg" width="100">
+  <img src="MySQL-Dark.svg" width="90">
+  <img src="HTML.svg" width="90">
+  <img src="CSS.svg" width="90">
+  <img src="JavaScript.svg" width="90">
+  <img src="Bash-Dark.svg" width="90">
   
   ---
   
   ## ⚡ Currently learning ⚡
-  <img src="Git.svg" width="100">
-  <img src="Bootstrap.svg" width="100">
-  <img src="React-Dark.svg" width="100">
-  <img src="Nginx.svg" width="100">
-  <img src="Selenium.svg" width="100">
-  <img src="Docker.svg" width="100">
-  <img src="Rust.svg" width="100">
+  <img src="Git.svg" width="90">
+  <img src="Bootstrap.svg" width="90">
+  <img src="React-Dark.svg" width="90">
+  <img src="Nginx.svg" width="90">
+  <img src="Selenium.svg" width="90">
+  <img src="Docker.svg" width="90">
+  <img src="Rust.svg" width="90">
   
   ---
   
   ## ✨ FrontEnd ✨
-  <img src="HTML.svg" width="100">
-  <img src="CSS.svg" width="100">
+  <img src="HTML.svg" width="90">
+  <img src="CSS.svg" width="90">
   <img src="JavaScript.svg" width="100">
   
   ---
   
   ## 🧠 Back-End 🧠
-  <img src="Flask-Dark.svg" width="100">
-  <img src="MySQL-Dark.svg" width="100">
+  <img src="Flask-Dark.svg" width="90">
+  <img src="MySQL-Dark.svg" width="90">
   
   ---
   
   ## 🐬️ DataBase 🐬️
-  <img src="MySQL-Dark.svg" width="100">
+  <img src="MySQL-Dark.svg" width="90">
   
   ---
   
   ## 🐧 Gnu/Linux 🐧
-  <img src="Linux-Dark.svg" width="100">
-  <img src="Debian-Dark.svg" width="100">
-  <img src="Ubuntu-Dark.svg" width="100">
-  <img src="Bash-Dark.svg" width="100">
+  <img src="Linux-Dark.svg" width="90">
+  <img src="Debian-Dark.svg" width="90">
+  <img src="Ubuntu-Dark.svg" width="90">
+  <img src="Bash-Dark.svg" width="90">
   
   ---
   
   ## ⚙️ Development Tools ⚙️
-  <img src="Linux-Dark.svg" width="100">
-  <img src="VSCode-Dark.svg" width="100">
-  <img src="VIM-Dark.svg" width="100">
-  <img src="NeoVim-Dark.svg" width="100">
-  <img src="Github-Dark.svg" width="100">
+  <img src="Linux-Dark.svg" width="90">
+  <img src="VSCode-Dark.svg" width="90">
+  <img src="VIM-Dark.svg" width="90">
+  <img src="NeoVim-Dark.svg" width="90">
+  <img src="Github-Dark.svg" width="90">
   
   ---
   
@@ -77,6 +77,6 @@
   ---
   
   ## 🧾 My quizzes 🧾
-  <img src="CodeBezan.png" width="600">
+  <img src="CodeBezan.png" width="500">
 
 </div>
