@@ -40,32 +40,36 @@
   
   ---
   
-  ## ✨ FrontEnd ✨
+  ## ✨ Front-End ✨
   <img src="HTML.svg" width="90">
   <img src="CSS.svg" width="90">
   <img src="JavaScript.svg" width="90">
   
   ---
 
-  <table width="100%" align="center">
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>✨ FrontEnd</h3>
+    <th width="33%">🧠 Back-End</th>
+    <th width="33%">✨ Front-End</th>
+  </tr>
+  <tr>
+    <td valign="top">
       <ul>
-          <img src="HTML.svg" width="90">
-          <img src="CSS.svg" width="90">
-          <img src="JavaScript.svg" width="100">
+        <img src="HTML.svg" width="90">
+        <img src="CSS.svg" width="90">
+        <img src="JavaScript.svg" width="90">
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Back-End</h3>
+    <td valign="top">
       <ul>
-          <img src="Flask-Dark.svg" width="90">
-          <img src="MySQL-Dark.svg" width="90">
+        <img src="Flask-Dark.svg" width="90">
+        <img src="MySQL-Dark.svg" width="90">
       </ul>
     </td>
   </tr>
 </table>
+  
+  ---
   
   ## 🧠 Back-End 🧠
   <img src="Flask-Dark.svg" width="90">
