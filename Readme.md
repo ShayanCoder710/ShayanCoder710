@@ -15,19 +15,6 @@
   <a href="https://github.com/ShayanCoder710">
     <img src="https://komarev.com/ghpvc/?username=ShayanCoder710&style=for-the-badge&color=39FF14&label=SYSTEM_VIEWS" alt="Visitor Counter" />
   </a>
-
-  ---
-
-  <table width="100%">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=ShayanCoder710&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=09c7e9&icon_color=00FF88" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShayanCoder710&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=09c7e9&text_color=ffffff" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
   
   ---
 
