@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="A.jpg" width="200" alt="Shayan">
+  <img src="ShayanK.png" width="200">
   <h1 style="margin: 0;">ShayanCoder710</h1>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=09c7e9&lines=Hello👋🏻+I'm+ShayanCoder710🧑🏻‍💻;Welcome+To+My+GitHub🌐️;I'm+a+Programmer🧑‍💻️;I+Like+Linux🐧️)](https://git.io/typing-svg)
