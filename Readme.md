@@ -7,25 +7,35 @@
   </a>
 
   <a href="https://github.com/ShayanCoder710">
-  <img src="https://img.shields.io/badge/Status-Coding_&_Architecting-00FF88?style=for-the-badge&logo=visualstudiocode&logoColor=0D1117" alt="Status" />
-</a>
-<a href="https://github.com/ShayanCoder710?tab=followers">
-  <img src="https://img.shields.io/github/followers/ShayanCoder710?style=for-the-badge&color=58A6FF&labelColor=161B22&logo=github" alt="Followers" />
-</a>
-<a href="https://github.com/ShayanCoder710">
-  <img src="https://komarev.com/ghpvc/?username=ShayanCoder710&style=for-the-badge&color=39FF14&label=SYSTEM_VIEWS" alt="Visitor Counter" />
-</a>
+    <img src="https://img.shields.io/badge/Status-Coding_&_Architecting-00FF88?style=for-the-badge&logo=visualstudiocode&logoColor=0D1117" alt="Status" />
+  </a>
+  <a href="https://github.com/ShayanCoder710?tab=followers">
+    <img src="https://img.shields.io/github/followers/ShayanCoder710?style=for-the-badge&color=58A6FF&labelColor=161B22&logo=github" alt="Followers" />
+  </a>
+  <a href="https://github.com/ShayanCoder710">
+    <img src="https://komarev.com/ghpvc/?username=ShayanCoder710&style=for-the-badge&color=39FF14&label=SYSTEM_VIEWS" alt="Visitor Counter" />
+  </a>
   
   ---
-  
-  ## 💪🏻 My Skills 💪🏻
-  <img src="Python-Dark.svg" width="90">
-  <img src="Flask-Dark.svg" width="90">
-  <img src="MySQL-Dark.svg" width="90">
-  <img src="HTML.svg" width="90">
-  <img src="CSS.svg" width="90">
-  <img src="JavaScript.svg" width="90">
-  <img src="Bash-Dark.svg" width="90">
+
+  <table width="100%">
+    <tr>
+      <th width="33%">💪🏻 My Skills</th>
+    </tr>
+    <tr>
+      <td valign="top">
+        <ul>
+          <img src="Python-Dark.svg" width="90">
+          <img src="Flask-Dark.svg" width="90">
+          <img src="MySQL-Dark.svg" width="90">
+          <img src="HTML.svg" width="90">
+          <img src="CSS.svg" width="90">
+          <img src="JavaScript.svg" width="90">
+          <img src="Bash-Dark.svg" width="90">
+        </ul>
+      </td>
+    </tr>
+  </table>
   
   ---
   
@@ -39,41 +49,37 @@
   <img src="Rust.svg" width="90">
   
   ---
-  
-  ## ✨ Front-End ✨
-  <img src="HTML.svg" width="90">
-  <img src="CSS.svg" width="90">
-  <img src="JavaScript.svg" width="90">
+
+  <table width="100%">
+    <tr>
+      <th width="33%">✨ Front-End</th>
+    </tr>
+    <tr>
+      <td valign="top">
+        <ul>
+          <img src="HTML.svg" width="90">
+          <img src="CSS.svg" width="90">
+          <img src="JavaScript.svg" width="90">
+        </ul>
+      </td>
+    </tr>
+  </table>
   
   ---
 
 <table width="100%">
-  <tr>
-    <th width="33%">🧠 Back-End</th>
-    <th width="33%">✨ Front-End</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <ul>
-        <img src="HTML.svg" width="90">
-        <img src="CSS.svg" width="90">
-        <img src="JavaScript.svg" width="90">
-      </ul>
-    </td>
-    <td valign="top">
-      <ul>
-        <img src="Flask-Dark.svg" width="90">
-        <img src="MySQL-Dark.svg" width="90">
-      </ul>
-    </td>
-  </tr>
-</table>
-  
-  ---
-  
-  ## 🧠 Back-End 🧠
-  <img src="Flask-Dark.svg" width="90">
-  <img src="MySQL-Dark.svg" width="90">
+    <tr>
+      <th width="33%">🧠 Back-End</th>
+    </tr>
+    <tr>
+      <td valign="top">
+        <ul>
+          <img src="Flask-Dark.svg" width="90">
+          <img src="MySQL-Dark.svg" width="90">
+        </ul>
+      </td>
+    </tr>
+  </table>
   
   ---
   
