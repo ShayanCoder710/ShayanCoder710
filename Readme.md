@@ -27,7 +27,6 @@
 - MySQL Connector(Little)
 - CustomTkinter
 - OpenAI
-- QRCode
 - Flask
 
 ---
