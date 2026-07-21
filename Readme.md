@@ -65,14 +65,13 @@
   ---
   
   ## 📑 My Certificates
-  <img src="c1.png" width="200" style="border-radius: 5px; background-color: white;">
-  <img src="c1.png" width="200" style="border-radius: 5px;">
-  <img src="c2.png" width="200" style="border-radius: 5px;">
-  <img src="c3.png" width="200" style="border-radius: 5px;">
-  <img src="c4.png" width="200" style="border-radius: 5px;">
-  <img src="c5.png" width="200" style="border-radius: 5px;">
-  <img src="c6.png" width="200" style="border-radius: 5px;">
-  <img src="c7.png" width="200" style="border-radius: 5px;">
+  <img src="c1.png" width="200">
+  <img src="c2.png" width="200">
+  <img src="c3.png" width="200">
+  <img src="c4.png" width="200">
+  <img src="c5.png" width="200">
+  <img src="c6.png" width="200">
+  <img src="c7.png" width="200">
   
   ---
   
