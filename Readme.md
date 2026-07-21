@@ -48,6 +48,8 @@
   ---
   
   ## 🐧 Gnu/Linux
+  <img src="Linux-Dark.svg" width="100">
+  <img src="Debian-Dark.svg" width="100">
   <img src="Ubuntu-Dark.svg" width="100">
   <img src="Bash-Dark.svg" width="100">
   
