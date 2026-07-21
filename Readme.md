@@ -1,10 +1,5 @@
 <div align="center">
 
-  <img src="ShayanK.png" width="320">
-
-  ---
-  <!--<h1 style="margin: 0;">ShayanCoder710</h1>-->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=09c7e9&height=150&section=header&text=Junior%20Full%20Stack%20Developer&fontSize=40&fontColor=FFFFFF&animation=twinkling" width="100%" />
 
   <a href="https://git.io/typing-svg">
