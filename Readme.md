@@ -20,98 +20,133 @@
 
   <table width="100%">
     <tr>
-      <th width="33%">💪🏻 My Skills</th>
+      <th>💪🏻 My Skills 💪🏻</th>
     </tr>
     <tr>
-      <td valign="top">
-        <ul>
-          <img src="Python-Dark.svg" width="90">
-          <img src="Flask-Dark.svg" width="90">
-          <img src="MySQL-Dark.svg" width="90">
-          <img src="HTML.svg" width="90">
-          <img src="CSS.svg" width="90">
-          <img src="JavaScript.svg" width="90">
-          <img src="Bash-Dark.svg" width="90">
-        </ul>
+      <td>
+        <img src="Python-Dark.svg" width="90">
+        <img src="Flask-Dark.svg" width="90">
+        <img src="MySQL-Dark.svg" width="90">
+        <img src="HTML.svg" width="90">
+        <img src="CSS.svg" width="90">
+        <img src="JavaScript.svg" width="90">
+        <img src="Bash-Dark.svg" width="90">
       </td>
     </tr>
   </table>
   
   ---
-  
-  ## ⚡ Currently learning ⚡
-  <img src="Git.svg" width="90">
-  <img src="Bootstrap.svg" width="90">
-  <img src="React-Dark.svg" width="90">
-  <img src="Nginx.svg" width="90">
-  <img src="Selenium.svg" width="90">
-  <img src="Docker.svg" width="90">
-  <img src="Rust.svg" width="90">
+
+
+  <table width="100%">
+    <tr>
+      <th>⚡ Currently learning ⚡</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="Git.svg" width="90">
+        <img src="Bootstrap.svg" width="90">
+        <img src="React-Dark.svg" width="90">
+        <img src="Nginx.svg" width="90">
+        <img src="Selenium.svg" width="90">
+        <img src="Docker.svg" width="90">
+        <img src="Rust.svg" width="90">
+      </td>
+    </tr>
+  </table>
   
   ---
 
   <table width="100%">
     <tr>
-      <th width="33%">✨ Front-End</th>
+      <th>✨ Front-End ✨</th>
     </tr>
     <tr>
-      <td valign="top">
-        <ul>
-          <img src="HTML.svg" width="90">
-          <img src="CSS.svg" width="90">
-          <img src="JavaScript.svg" width="90">
-        </ul>
+      <td>
+        <img src="HTML.svg" width="90">
+        <img src="CSS.svg" width="90">
+        <img src="JavaScript.svg" width="90">
       </td>
     </tr>
   </table>
   
   ---
 
-<table width="100%">
+  <table width="100%">
     <tr>
-      <th width="33%">🧠 Back-End</th>
+      <th>🧠 Back-End 🧠</th>
     </tr>
     <tr>
-      <td valign="top">
-        <ul>
-          <img src="Flask-Dark.svg" width="90">
-          <img src="MySQL-Dark.svg" width="90">
-        </ul>
+      <td>
+        <img src="Flask-Dark.svg" width="90">
+        <img src="MySQL-Dark.svg" width="90">
+      </td>
+    </tr>
+  </table>
+  
+  ---
+
+  <table width="100%">
+    <tr>
+      <th>🐧 Gnu/Linux 🐧</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="Linux-Dark.svg" width="90">
+        <img src="Debian-Dark.svg" width="90">
+        <img src="Ubuntu-Dark.svg" width="90">
+        <img src="Bash-Dark.svg" width="90">
+      </td>
+    </tr>
+  </table>
+  
+  ---
+
+  <table width="100%">
+    <tr>
+      <th>⚙️ Development Tools ⚙️</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="Linux-Dark.svg" width="90">
+        <img src="VSCode-Dark.svg" width="90">
+        <img src="VIM-Dark.svg" width="90">
+        <img src="NeoVim-Dark.svg" width="90">
+        <img src="Github-Dark.svg" width="90">
       </td>
     </tr>
   </table>
   
   ---
   
-  ## 🐧 Gnu/Linux 🐧
-  <img src="Linux-Dark.svg" width="90">
-  <img src="Debian-Dark.svg" width="90">
-  <img src="Ubuntu-Dark.svg" width="90">
-  <img src="Bash-Dark.svg" width="90">
+  <table width="100%">
+    <tr>
+      <th>📑 My Certificates 📑</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="c1.png" width="200">
+        <img src="c2.png" width="200">
+        <img src="c3.png" width="200">
+        <img src="c4.png" width="200">
+        <img src="c5.png" width="200">
+        <img src="c6.png" width="200">
+        <img src="c7.png" width="200">
+      </td>
+    </tr>
+  </table>
   
   ---
   
-  ## ⚙️ Development Tools ⚙️
-  <img src="Linux-Dark.svg" width="90">
-  <img src="VSCode-Dark.svg" width="90">
-  <img src="VIM-Dark.svg" width="90">
-  <img src="NeoVim-Dark.svg" width="90">
-  <img src="Github-Dark.svg" width="90">
-  
-  ---
-  
-  ## 📑 My Certificates 📑
-  <img src="c1.png" width="200">
-  <img src="c2.png" width="200">
-  <img src="c3.png" width="200">
-  <img src="c4.png" width="200">
-  <img src="c5.png" width="200">
-  <img src="c6.png" width="200">
-  <img src="c7.png" width="200">
-  
-  ---
-  
-  ## 🧾 My quizzes 🧾
-  <img src="CodeBezan.png" width="500">
+  <table width="100%">
+    <tr>
+      <th>🧾 My quizzes 🧾</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="CodeBezan.png" width="500">
+      </td>
+    </tr>
+  </table>
 
 </div>
