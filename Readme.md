@@ -7,49 +7,42 @@
   ---
   
   ## 💪🏻 My Skills
-  <img src="JavaScript.svg" width="100">
   <img src="Python-Dark.svg" width="100">
-  - MySQL
-  - Flask
-  - Bash
-  - HTML
-  - CSS
+  <img src="Flask-Dark.svg" width="100">
+  <img src="MySQL-Dark.svg" width="100">
+  <img src="HTML.svg" width="100">
+  <img src="CSS.svg" width="100">
+  <img src="JavaScript.svg" width="100">
+  <img src="Bash-Dark.svg" width="100">
   
   ---
   
   ## ⚡ Currently learning
-  - Flask
-  - Git
-  
-  ---
-  
-  # 🐍️ Python Libraries
-  - Flask SqlAlchemy(Little)
-  - Telegram Bot API(Little)
-  - MySQL Connector(Little)
-  - CustomTkinter
-  - OpenAI
-  - Flask
+  <img src="React-Dark.svg" width="100">
+  <img src="Git.svg" width="100">
+  <img src="Nginx.svg" width="100">
+  <img src="Bootstrap.svg" width="100">
+  <img src="Rust.svg" width="100">
+  <img src="Selenium.svg" width="100">
+  <img src="Docker.svg" width="100">
   
   ---
   
   ## ✨ FrontEnd
-  - HTML
-  - CSS
-  - Java Script
+  <img src="HTML.svg" width="100">
+  <img src="CSS.svg" width="100">
+  <img src="JavaScript.svg" width="100">
   
   ---
   
   ## 🧠 Back-End
-  - Flask
-  - MySQL
-  - MariaDB
+  <img src="Flask-Dark.svg" width="100">
+  <img src="MySQL-Dark.svg" width="100">
   
   ---
   
   ## 🐬️ DataBase
-  - MariaDB
-  - MySQL
+  <img src="MySQL-Dark.svg" width="100">
   
   ---
   
