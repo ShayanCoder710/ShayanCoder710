@@ -37,7 +37,7 @@
   
   ---
 
-  <table width="100%">
+  <table width="100%" align="center">
   <tr>
     <td width="50%" valign="top">
       <h3>✨ FrontEnd</h3>
@@ -59,11 +59,6 @@
   
   ## 🧠 Back-End 🧠
   <img src="Flask-Dark.svg" width="90">
-  <img src="MySQL-Dark.svg" width="90">
-  
-  ---
-  
-  ## 🐬️ DataBase 🐬️
   <img src="MySQL-Dark.svg" width="90">
   
   ---
