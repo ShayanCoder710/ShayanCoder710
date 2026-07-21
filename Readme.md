@@ -1,6 +1,8 @@
 <div align="center">
 
   <img src="ShayanK.png" width="320">
+
+  ---
   <!--<h1 style="margin: 0;">ShayanCoder710</h1>-->
 
   <a href="https://git.io/typing-svg">
