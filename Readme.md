@@ -17,7 +17,6 @@
 
 ## ⚡ Currently learning
 - Flask
-- Bash
 - Git
 
 ---
@@ -84,3 +83,36 @@
 - HTML Quiz(CodeBezan)
 - CSS Quiz(CodeBezan)
 - JS Quiz(CodeBezan)
+
+---
+
+                ..............                  
+           ........................             shayan@ubuntu
+--------------
+OS: Ubuntu 26.04 LTS
+Host: Lenovo G50-70
+Kernel: Linux 7.0
+Shell: zsh
+WM: GNOME
+Terminal: Ptyxis
+CPU: Intel i3-4010U
+Memory: 7 GB
+        ..............l,..............       o  
+      ........,;;;;'.......'............   ck   
+     .......,:......;;;.................;d0o    
+    ........c .........,;'...........,lk00d     
+   ........';.............:,.....'cdOOOOx,..    
+  ..........l............. .oclxOOkdxOd;....    
+ . .dOOk;.KW.:........,:ldkOOOdc,;ldl,''.....   
+ ..kMo... KWlKk::oOKNXkKNo,lk.cxKNd,lOxO0d...   
+ ...lkNXo;XMlcWN,;cl0M;.NK.N0;cclNM:dMk;OM:..   
+ ..clldWN.XW..WX'WK;kM:.cMN0.;MO;XMcdMx;xM:..   
+..;;cll;..dd..cc.;0l;kd:'0X...:lcOxclxl;lo'.    
+   .......':......:dx. ;ko......,xo::c;:;..     
+    .......':'.:c;...dd........;::k::::;...     
+     .......:ol..............,::::k:::;..       
+      ....:c'............',;:ccllo::,...        
+       .::...':........'',,;;;;;,'....          
+          ..........................            
+              ..................                
+                                            
