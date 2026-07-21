@@ -2,7 +2,7 @@
 
   <img src="ShayanE.png" width="100"><h1>ShayanCoder710</h1>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=09c7e9&lines=Hello👋🏻+I'm+ShayanCoder710🧑🏻‍💻;Welcome+To+My+GitHub🌐️;I'm+a+Programmer🧑‍💻️;I+Like+Linux🐧️)](https://git.io/typing-svg)
+  <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=09c7e9&lines=Hello👋🏻+I'm+ShayanCoder710🧑🏻‍💻;Welcome+To+My+GitHub🌐️;I'm+a+Programmer🧑‍💻️;I+Like+Linux🐧️)](https://git.io/typing-svg)-->
   
   ---
   
@@ -62,17 +62,17 @@
   ---
   
   ## 📑 My Certificates
-  <img src="c1.svg" width="100">
-  <img src="c2.svg" width="100">
-  <img src="c3.svg" width="100">
-  <img src="c4.svg" width="100">
-  <img src="c5.svg" width="100">
-  <img src="c6.svg" width="100">
-  <img src="c7.svg" width="100">
+  <img src="c1.png" width="100">
+  <img src="c2.png" width="100">
+  <img src="c3.png" width="100">
+  <img src="c4.png" width="100">
+  <img src="c5.png" width="100">
+  <img src="c6.png" width="100">
+  <img src="c7.png" width="100">
   
   ---
   
   ## 🧾 My quizzes
-  <img src="CodeBezan.png" width="100">
+  <img src="CodeBezan.png" width="400">
 
 </div>
