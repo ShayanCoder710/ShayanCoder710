@@ -10,7 +10,7 @@
   
   ## 💪🏻 My Skills 💪🏻
   <img src="Python-Dark.svg" width="80">
-  <img src="Flask-Dark.svg" width="100">
+  <img src="Flask-Dark.svg" width="90">
   <img src="MySQL-Dark.svg" width="100">
   <img src="HTML.svg" width="100">
   <img src="CSS.svg" width="100">
