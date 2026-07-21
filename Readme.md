@@ -23,7 +23,7 @@
       <th>💪🏻 My Skills 💪🏻</th>
     </tr>
     <tr>
-      <td>
+      <td align="center">
         <img src="Python-Dark.svg" width="90">
         <img src="Flask-Dark.svg" width="90">
         <img src="MySQL-Dark.svg" width="90">
@@ -43,7 +43,7 @@
       <th>⚡ Currently learning ⚡</th>
     </tr>
     <tr>
-      <td>
+      <td align="center">
         <img src="Git.svg" width="90">
         <img src="Bootstrap.svg" width="90">
         <img src="React-Dark.svg" width="90">
@@ -62,7 +62,7 @@
       <th>✨ Front-End ✨</th>
     </tr>
     <tr>
-      <td>
+      <td align="center">
         <img src="HTML.svg" width="90">
         <img src="CSS.svg" width="90">
         <img src="JavaScript.svg" width="90">
@@ -77,7 +77,7 @@
       <th>🧠 Back-End 🧠</th>
     </tr>
     <tr>
-      <td>
+      <td align="center">
         <img src="Flask-Dark.svg" width="90">
         <img src="MySQL-Dark.svg" width="90">
       </td>
@@ -91,7 +91,7 @@
       <th>🐧 Gnu/Linux 🐧</th>
     </tr>
     <tr>
-      <td>
+      <td align="center">
         <img src="Linux-Dark.svg" width="90">
         <img src="Debian-Dark.svg" width="90">
         <img src="Ubuntu-Dark.svg" width="90">
@@ -107,7 +107,7 @@
       <th>⚙️ Development Tools ⚙️</th>
     </tr>
     <tr>
-      <td>
+      <td align="center">
         <img src="Linux-Dark.svg" width="90">
         <img src="VSCode-Dark.svg" width="90">
         <img src="VIM-Dark.svg" width="90">
@@ -143,7 +143,7 @@
       <th>🧾 My quizzes 🧾</th>
     </tr>
     <tr>
-      <td>
+      <td align="center">
         <img src="CodeBezan.png" width="500">
       </td>
     </tr>
