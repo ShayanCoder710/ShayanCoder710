@@ -65,17 +65,17 @@
   ---
   
   ## 📑 My Certificates
-  <img src="c1.png" width="100">
-  <img src="c2.png" width="100">
-  <img src="c3.png" width="100">
-  <img src="c4.png" width="100">
-  <img src="c5.png" width="100">
-  <img src="c6.png" width="100">
-  <img src="c7.png" width="100">
+  <img src="c1.png" width="200">
+  <img src="c2.png" width="200">
+  <img src="c3.png" width="200">
+  <img src="c4.png" width="200">
+  <img src="c5.png" width="200">
+  <img src="c6.png" width="200">
+  <img src="c7.png" width="200">
   
   ---
   
   ## 🧾 My quizzes
-  <img src="CodeBezan.png" width="400">
+  <img src="CodeBezan.png" width="800">
 
 </div>
