@@ -5,7 +5,7 @@
   ---
   <!--<h1 style="margin: 0;">ShayanCoder710</h1>-->
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Shayan%&fontSize=42&fontColor=00FF88&animation=twinkling&desc=Junior%20Full%20Stack%20%Developer%207C%20Enthusiast%20%7C&descSize=18&descAlign=50&descAlignY=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Shayan%&fontSize=42&fontColor=00FF88&animation=twinkling&desc=Junior%20Full%20Stack%20%Developer&descSize=18&descAlign=50&descAlignY=70" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=24&color=09c7e9&center=true&lines=Hi👋🏻+I'm+ShayanCoder710🧑🏻‍💻;Welcome+To+My+GitHub🌐️;I'm+a+Programmer🧑‍💻️;I+Like+Linux🐧️" alt="Typing SVG">
