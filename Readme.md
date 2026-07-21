@@ -36,6 +36,26 @@
   <img src="JavaScript.svg" width="100">
   
   ---
+
+  <table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✨ FrontEnd</h3>
+      <ul>
+          <img src="HTML.svg" width="90">
+          <img src="CSS.svg" width="90">
+          <img src="JavaScript.svg" width="100">
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Back-End</h3>
+      <ul>
+          <img src="Flask-Dark.svg" width="90">
+          <img src="MySQL-Dark.svg" width="90">
+      </ul>
+    </td>
+  </tr>
+</table>
   
   ## 🧠 Back-End 🧠
   <img src="Flask-Dark.svg" width="90">
