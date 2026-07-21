@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=004e89&height=150&section=header&text=Junior%20Full%20Stack%20Developer&fontSize=40&fontColor=FFFFFF&animation=twinkling" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <h1> <img src="https://readme-typing-svg.herokuapp.com?size=24&color=09c7e9&center=true&lines=Hi👋🏻+I'm+ShayanCoder710🧑🏻‍💻;Welcome+To+My+GitHub🌐️;I'm+a+Programmer🧑‍💻️;I+Like+Linux🐧️" alt="Typing SVG"> </h1>
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=09c7e9&center=true&lines=Hi👋🏻+I'm+ShayanCoder710🧑🏻‍💻;Welcome+To+My+GitHub🌐️;I'm+a+Programmer🧑‍💻️;I+Like+Linux🐧️" alt="Typing SVG">
   </a>
 
   <a href="https://github.com/ShayanCoder710?tab=followers">
@@ -13,6 +13,19 @@
   <a href="https://github.com/ShayanCoder710">
     <img src="https://komarev.com/ghpvc/?username=ShayanCoder710&style=for-the-badge&color=39FF14&label=SYSTEM_VIEWS" alt="Visitor Counter" />
   </a>
+
+  ---
+
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=ShayanCoder710&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=09c7e9&icon_color=00FF88" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShayanCoder710&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=09c7e9&text_color=ffffff" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
   
   ---
 
