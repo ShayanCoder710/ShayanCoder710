@@ -1,13 +1,13 @@
 <div align="center">
 
   <img src="A.jpg" width="200" alt="Shayan">
-  <!--<h1 style="margin: 0;">ShayanCoder710</h1>-->
+  <h1 style="margin: 0;">ShayanCoder710</h1>
   
-  <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=09c7e9&lines=Hello👋🏻+I'm+ShayanCoder710🧑🏻‍💻;Welcome+To+My+GitHub🌐️;I'm+a+Programmer🧑‍💻️;I+Like+Linux🐧️)](https://git.io/typing-svg)-->
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=09c7e9&lines=Hello👋🏻+I'm+ShayanCoder710🧑🏻‍💻;Welcome+To+My+GitHub🌐️;I'm+a+Programmer🧑‍💻️;I+Like+Linux🐧️)](https://git.io/typing-svg)
   
   ---
   
-  ## 💪🏻 My Skills
+  ## 💪🏻 My Skills 💪🏻
   <img src="Python-Dark.svg" width="100">
   <img src="Flask-Dark.svg" width="100">
   <img src="MySQL-Dark.svg" width="100">
@@ -18,7 +18,7 @@
   
   ---
   
-  ## ⚡ Currently learning
+  ## ⚡ Currently learning ⚡
   <img src="Git.svg" width="100">
   <img src="Bootstrap.svg" width="100">
   <img src="React-Dark.svg" width="100">
@@ -29,25 +29,25 @@
   
   ---
   
-  ## ✨ FrontEnd
+  ## ✨ FrontEnd ✨
   <img src="HTML.svg" width="100">
   <img src="CSS.svg" width="100">
   <img src="JavaScript.svg" width="100">
   
   ---
   
-  ## 🧠 Back-End
+  ## 🧠 Back-End 🧠
   <img src="Flask-Dark.svg" width="100">
   <img src="MySQL-Dark.svg" width="100">
   
   ---
   
-  ## 🐬️ DataBase
+  ## 🐬️ DataBase 🐬️
   <img src="MySQL-Dark.svg" width="100">
   
   ---
   
-  ## 🐧 Gnu/Linux
+  ## 🐧 Gnu/Linux 🐧
   <img src="Linux-Dark.svg" width="100">
   <img src="Debian-Dark.svg" width="100">
   <img src="Ubuntu-Dark.svg" width="100">
@@ -55,7 +55,7 @@
   
   ---
   
-  ## ⚙️ Development Tools
+  ## ⚙️ Development Tools ⚙️
   <img src="Linux-Dark.svg" width="100">
   <img src="VSCode-Dark.svg" width="100">
   <img src="VIM-Dark.svg" width="100">
@@ -64,7 +64,7 @@
   
   ---
   
-  ## 📑 My Certificates
+  ## 📑 My Certificates 📑
   <img src="c1.png" width="200">
   <img src="c2.png" width="200">
   <img src="c3.png" width="200">
@@ -75,7 +75,7 @@
   
   ---
   
-  ## 🧾 My quizzes
+  ## 🧾 My quizzes 🧾
   <img src="CodeBezan.png" width="600">
 
 </div>
