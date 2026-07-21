@@ -6,12 +6,10 @@
     <h1> <img src="https://readme-typing-svg.herokuapp.com?size=24&color=09c7e9&center=true&lines=Hi👋🏻+I'm+ShayanCoder710🧑🏻‍💻;Welcome+To+My+GitHub🌐️;I'm+a+Programmer🧑‍💻️;I+Like+Linux🐧️" alt="Typing SVG"> </h1>
   </a>
 
-  <a href="https://github.com/ShayanCoder710">
-    <img src="https://img.shields.io/badge/Status-Coding_&_Architecting-00FF88?style=for-the-badge&logo=visualstudiocode&logoColor=0D1117" alt="Status" />
-  </a>
   <a href="https://github.com/ShayanCoder710?tab=followers">
     <img src="https://img.shields.io/github/followers/ShayanCoder710?style=for-the-badge&color=58A6FF&labelColor=161B22&logo=github" alt="Followers" />
   </a>
+  
   <a href="https://github.com/ShayanCoder710">
     <img src="https://komarev.com/ghpvc/?username=ShayanCoder710&style=for-the-badge&color=39FF14&label=SYSTEM_VIEWS" alt="Visitor Counter" />
   </a>
