@@ -1,4 +1,4 @@
-<h1 sytle="text-align: center">ShayanCoder710</h1>
+<h1 style="text-align: center">ShayanCoder710</h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=09c7e9&lines=Hello👋🏻+I'm+ShayanCoder710🧑🏻‍💻;Welcome+To+My+GitHub🌐️;I'm+a+Programmer🧑‍💻️;I+Like+Linux🐧️)](https://git.io/typing-svg)
 
 
