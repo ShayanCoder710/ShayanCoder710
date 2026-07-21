@@ -124,7 +124,7 @@
       <th>📑 My Certificates 📑</th>
     </tr>
     <tr>
-      <td>
+      <td align="center">
         <img src="c1.png" width="200">
         <img src="c2.png" width="200">
         <img src="c3.png" width="200">
