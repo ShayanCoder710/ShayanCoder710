@@ -81,15 +81,6 @@
 - Python Quiz(CodeBezan)
 - MySQL Quiz(CodeBezan)
 - HTML Quiz(CodeBezan)
+- Flask Quiz(FaraDars)
 - CSS Quiz(CodeBezan)
 - JS Quiz(CodeBezan)
-
----
-
-    .--.
-   |o_o |
-   |:_/ |
-  //   \ \
- (|     | )
-/'\_   _/`\
-\___)=(___/
