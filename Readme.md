@@ -65,7 +65,7 @@
   ---
   
   ## 📑 My Certificates
-  <img src="c1.png" width="200" style="background-color: #1a1a1a; border-radius: 5px; padding: 10px;">
+  <img src="c1.png" width="200" style="border-radius: 5px; background-color: white;">
   <img src="c1.png" width="200" style="border-radius: 5px;">
   <img src="c2.png" width="200" style="border-radius: 5px;">
   <img src="c3.png" width="200" style="border-radius: 5px;">
