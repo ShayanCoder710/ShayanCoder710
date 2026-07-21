@@ -55,7 +55,7 @@
   
   ## ⚙️ Development Tools
   <img src="Linux-Dark.svg" width="100">
-  <img src="VSCode.svg" width="100">
+  <img src="VSCode-Dark.svg" width="100">
   <img src="VIM-Dark.svg" width="100">
   <img src="NeoVim-Dark.svg" width="100">
   <img src="Github-Dark.svg" width="100">
