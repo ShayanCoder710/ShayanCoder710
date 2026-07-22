@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=004e89&height=150&section=header&text=Junior%20Full%20Stack%20Developer&fontSize=40&fontColor=FFFFFF&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=004e89,00FF88&height=150&section=header&text=Junior%20Full%20Stack%20Developer&fontSize=40&fontColor=FFFFFF&animation=twinkling" width="100%" />
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=004e89&height=150&section=header&text=Junior%20Full%20Stack%20Developer&fontSize=40&fontColor=FFFFFF&animation=twinkling" width="100%" />
 
