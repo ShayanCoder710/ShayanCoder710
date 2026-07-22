@@ -151,6 +151,6 @@
 
   ---
   
-  <i>☕ Powered by Coffee ☕</i>
+  <h2>☕ Powered by Coffee ☕</h2>
 
 </div>
