@@ -151,6 +151,6 @@
 
   ---
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=004e89&height=120&section=footer&text=Powered%20by%20Coffee%20%E2%98%95&fontSize=30&fontColor=FFFFFF&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer&text=Powered%20by%20Coffee%20%E2%98%95&fontSize=30&fontColor=FFFFFF&animation=twinkling" width="100%" />
 
 </div>
