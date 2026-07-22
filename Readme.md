@@ -149,4 +149,8 @@
     </tr>
   </table>
 
+  ---
+  
+  <i>☕ Powered by Coffee ☕</i>
+
 </div>
