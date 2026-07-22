@@ -1,5 +1,7 @@
 <div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d2137,2ecc71&height=150&section=header&text=Junior%20Full%20Stack%20Developer&fontSize=40&fontColor=FFFFFF&animation=twinkling" width="100%" />
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=004e89&height=150&section=header&text=Junior%20Full%20Stack%20Developer&fontSize=40&fontColor=FFFFFF&animation=twinkling" width="100%" />
 
   <a href="https://git.io/typing-svg">
@@ -152,5 +154,7 @@
   ---
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=004e89&height=120&section=footer&text=Powered%20by%20Coffee%20%E2%98%95&fontSize=30&fontColor=FFFFFF&animation=twinkling" width="100%" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d2137,2ecc71&height=120&section=footer&text=Powered%20by%20Coffee%20%E2%98%95&fontSize=30&fontColor=FFFFFF&animation=twinkling" width="100%" />
 
 </div>
