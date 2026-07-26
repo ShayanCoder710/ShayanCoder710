@@ -132,6 +132,7 @@
         <img src="c5.png" width="200">
         <img src="c6.png" width="200">
         <img src="c7.png" width="200">
+        <img src="c8.png" width="200">
       </td>
     </tr>
   </table>
