@@ -31,6 +31,7 @@
         <img src="CSS.svg" width="90">
         <img src="JavaScript.svg" width="90">
         <img src="Bash-Dark.svg" width="90">
+        <img src="Git.svg" width="90">
       </td>
     </tr>
   </table>
@@ -44,7 +45,6 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="Git.svg" width="90">
         <img src="Bootstrap.svg" width="90">
         <img src="React-Dark.svg" width="90">
         <img src="Nginx.svg" width="90">
@@ -111,7 +111,7 @@
         <img src="Linux-Dark.svg" width="90">
         <img src="VSCode-Dark.svg" width="90">
         <img src="VIM-Dark.svg" width="90">
-        <img src="NeoVim-Dark.svg" width="90">
+        <img src="Git.svg" width="90">
         <img src="Github-Dark.svg" width="90">
       </td>
     </tr>
