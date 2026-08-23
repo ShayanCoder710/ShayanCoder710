@@ -47,8 +47,6 @@
       <td align="center">
         <img src="Bootstrap.svg" width="90">
         <img src="React-Dark.svg" width="90">
-        <img src="Nginx.svg" width="90">
-        <img src="Selenium.svg" width="90">
         <img src="Docker.svg" width="90">
         <img src="Rust.svg" width="90">
       </td>
