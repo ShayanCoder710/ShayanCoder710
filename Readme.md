@@ -48,7 +48,6 @@
       <td align="center">
         <img src="Bootstrap.svg" width="90">
         <img src="React-Dark.svg" width="90">
-        <img src="Docker.svg" width="90">
       </td>
     </tr>
   </table>
