@@ -91,7 +91,6 @@
       <td align="center">
         <img src="Linux-Dark.svg" width="90">
         <img src="Debian-Dark.svg" width="90">
-        <img src="Ubuntu-Dark.svg" width="90">
         <img src="Bash-Dark.svg" width="90">
       </td>
     </tr>
@@ -106,10 +105,8 @@
     <tr>
       <td align="center">
         <img src="Linux-Dark.svg" width="90">
-        <img src="VSCode-Dark.svg" width="90">
         <img src="VIM-Dark.svg" width="90">
         <img src="Git.svg" width="90">
-        <img src="Github-Dark.svg" width="90">
       </td>
     </tr>
   </table>
