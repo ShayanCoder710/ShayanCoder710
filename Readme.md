@@ -32,6 +32,7 @@
         <img src="JavaScript.svg" width="90">
         <img src="Bash-Dark.svg" width="90">
         <img src="Git.svg" width="90">
+        <img src="Rust.svg" width="90" alt="Low">
       </td>
     </tr>
   </table>
@@ -48,7 +49,6 @@
         <img src="Bootstrap.svg" width="90">
         <img src="React-Dark.svg" width="90">
         <img src="Docker.svg" width="90">
-        <img src="Rust.svg" width="90">
       </td>
     </tr>
   </table>
