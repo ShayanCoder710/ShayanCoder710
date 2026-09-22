@@ -32,7 +32,8 @@
         <img src="JavaScript.svg" width="90">
         <img src="Bash-Dark.svg" width="90">
         <img src="Git.svg" width="90">
-        <img src="Rust.svg" width="90" alt="Low">
+        <img src="Bootstrap.svg" width="90">
+        <img src="Rust.svg" width="90" alt="Some">
       </td>
     </tr>
   </table>
@@ -46,7 +47,6 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="Bootstrap.svg" width="90">
         <img src="React-Dark.svg" width="90">
       </td>
     </tr>
