@@ -47,6 +47,7 @@
     </tr>
     <tr>
       <td align="center">
+        <img src="Django.svg" width="90">
         <img src="React-Dark.svg" width="90">
       </td>
     </tr>
@@ -106,6 +107,7 @@
       <td align="center">
         <img src="Linux-Dark.svg" width="90">
         <img src="VIM-Dark.svg" width="90">
+        <img src="VSCodium-Dark.svg" width="90">
         <img src="Git.svg" width="90">
       </td>
     </tr>
