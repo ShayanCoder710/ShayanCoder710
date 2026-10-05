@@ -64,6 +64,7 @@
         <img src="HTML.svg" width="90">
         <img src="CSS.svg" width="90">
         <img src="JavaScript.svg" width="90">
+        <img src="Bootstrap.svg" width="90">
       </td>
     </tr>
   </table>
