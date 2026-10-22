@@ -142,7 +142,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="CodeBezan.png" width="600">
+        <img src="NewCodeBezan.png" width="600">
       </td>
     </tr>
   </table>
